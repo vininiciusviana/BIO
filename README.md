@@ -1,6 +1,4 @@
-## Seja bem-vindo, Eu sou Vinícius Viana e esse é o meu repositório. 😉
-
-- 🌱 Estudando CSS3 e JavaScript
+## Seja bem-vindo ao meu repositório!!
 
 
 <div align="center">
